@@ -1,2 +1,0 @@
-# projet-sylus
- demo sylus
